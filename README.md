@@ -13,3 +13,5 @@
   <img align="center" alt="luhenr-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img align="right" alt="gif" height="150" width="200" src="https://media.tenor.com/QOPu-A164TIAAAAd/angels-egg-mamoru-oshii.gif"/>
 </div>
+  
+ ![Snake animation](https://github.com/luhenr/luhenr/blob/output/github-contribution-grid-snake.svg)
