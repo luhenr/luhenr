@@ -11,5 +11,5 @@
   <img align="center" alt="luhenr-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="luhenr-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="luhenr-CPP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="right" alt="gif" src="https://media.tenor.com/QOPu-A164TIAAAAd/angels-egg-mamoru-oshii.gif"/>
+  <img align="right" alt="gif" height="30" width="40" src="https://media.tenor.com/QOPu-A164TIAAAAd/angels-egg-mamoru-oshii.gif"/>
 </div>
